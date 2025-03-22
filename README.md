@@ -1,4 +1,4 @@
-[![Animated Text](https://raw.githubusercontent.com/Julianarwansah/Julianarwansah/339d7ba6c9f82a7f5ff6bb2a7490bc513688da5f/Animation.gif)](https://github.com/Julianarwansah/Julianarwansah/blob/6c367a0dbb8312558048225606573d0839135650/Animationn.gif)
+![Animated Text](https://raw.githubusercontent.com/Julianarwansah/Julianarwansah/6c367a0dbb8312558048225606573d0839135650/Animationn.gif)
 
 ![GitHub Banner](https://raw.githubusercontent.com/<your-username>/your-repo/main/banner.gif)
 
