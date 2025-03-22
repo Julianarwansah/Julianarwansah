@@ -7,7 +7,7 @@ I'm passionate about **coding, solving problems, and building amazing things** w
 
 ---
 
-<img src="https://raw.githubusercontent.com/Julianarwansah/Julianarwansah/05b7fc3bea4f79da1eed9dbf1bf9320bd6c80881/Animation23.gif" width="400" alt="Coding GIF" align="right">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coding GIF" align="right">
 
 ## 🚀 About Me  
 - 🧑‍💻 Full-stack developer with a focus on **backend and database architecture**.  
