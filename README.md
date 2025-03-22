@@ -1,4 +1,4 @@
-![Animated Text](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/animated-text.gif)
+![Animated Text]([https://raw.githubusercontent.com/<your-username>/<your-repo>/main/animated-text.gif](https://github.com/Julianarwansah/Julianarwansah/blob/main/Animation.gif))
 
 ![GitHub Banner](https://raw.githubusercontent.com/<your-username>/your-repo/main/banner.gif)
 
