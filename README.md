@@ -7,8 +7,6 @@ I'm passionate about **coding, solving problems, and building amazing things** w
 
 ---
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVzaTh2YndiOGgxZWU5NndybzBsOXJ3azVlaTY2NnZpMnI1eHBvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPzuDa62ovAI/giphy.gif" width="400" alt="Coding GIF" align="right">
-
 ## 🚀 About Me  
 - 🧑‍💻 Full-stack developer with a focus on **backend and database architecture**.  
 - 📚 Always learning new technologies and **sharing knowledge** through content.  
