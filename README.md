@@ -1,6 +1,7 @@
 ![Animated Text](https://raw.githubusercontent.com/Julianarwansah/Julianarwansah/6c367a0dbb8312558048225606573d0839135650/Animationn.gif)
 
 ![GitHub Banner](https://raw.githubusercontent.com/<your-username>/your-repo/main/banner.gif)
+![Starfall Animation](https://media.giphy.com/media/example-starfall.gif)
 
 🌟 **Welcome to My GitHub Profile!** 🌟  
 I'm passionate about **coding, solving problems, and building amazing things** with **Laravel, Java, and Web Development**. 🚀 Let's create something great together!  
