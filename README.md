@@ -1,8 +1,9 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+![Animated Text](https://raw.githubusercontent.com/Julianarwansah/Julianarwansah/6c367a0dbb8312558048225606573d0839135650/Animationn.gif)
 
-![Starfall Animation](https://media.giphy.com/media/example-starfall.gif)
+![GitHub Banner](https://raw.githubusercontent.com/<your-username>/your-repo/main/banner.gif)
 
-I'm passionate about **coding, solving problems, and building amazing things** with **Laravel, Java, and Web Development**. 🚀 Let's create something great together!
+🌟 **Welcome to My GitHub Profile!** 🌟  
+I'm passionate about **coding, solving problems, and building amazing things** with **Laravel, Java, and Web Development**. 🚀 Let's create something great together!  
 
 ---
 
@@ -26,7 +27,7 @@ I'm passionate about **coding, solving problems, and building amazing things** w
 ---
 
 ## 📌 Featured Projects  
-💼 **Team Management System** (Laravel) – A powerful platform for **role-based access control, task management, and finance tracking**. �  
+💼 **Team Management System** (Laravel) – A powerful platform for **role-based access control, task management, and finance tracking**. 🏢  
 🏭 **Production Management System** – Integrated **MES, IMS, HRMS, and Business Intelligence** to optimize production workflows. 📈  
 
 ![Project GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
