@@ -47,3 +47,5 @@ I'm passionate about **coding, solving problems, and building amazing things** w
 Thanks for visiting my profile! 🚀 Happy Coding! 💻🎉  
 
 ![Thanks GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIwYTh6c3d5cjdneG5ianRtamtsbnR6bzdwMWdjYWh0bnp2NGVsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8IDovXLAixCDu/giphy.gif)
+![Rain Animation](https://media.giphy.com/media/l0HlGmE3CAVFSCZnO/giphy.gif)
+
