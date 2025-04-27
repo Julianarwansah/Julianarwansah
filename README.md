@@ -37,9 +37,9 @@ I'm passionate about **coding, solving problems, and building amazing things** w
 
 ## 📫 Connect with Me  
 🌎 **Let's collaborate!** Reach out to me through:  
-🔗 **TikTok:** [Your TikTok Handle]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-📧 **Email:** [Your Email]  
+🔗 **TikTok:** julianarwansah
+💼 **LinkedIn:**  
+📧 **Email:** julianarwansahh@gmail.com 
 
 ---
 
